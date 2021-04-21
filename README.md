@@ -1,8 +1,3 @@
-### Hi there 👋
-
-- :brain: My name is Aylin and I am an MD doing neuronal calcium imaging in Alzheimer's Disease _in vivo_.
-- :snake: I currently learning how to perform my data analysis on Python.
-- ⚡ My hobbies are reading and long-distance running.
 
 <!--
 **aylinderyakeskin/aylinderyakeskin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
